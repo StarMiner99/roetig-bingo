@@ -1,0 +1,104 @@
+{
+    "bingo_elements": [
+        {
+            "content": "Unlustiger Witz",
+            "probability": 100
+        },
+        {
+            "content": "Keiner antwortet auf seine Frage",
+            "probability": 100
+        },
+        {
+            "content": "Mea culpa, mea culpa, mea maxima culpa",
+            "probability": 100
+        },
+        {
+            "content": "Unleserliche Schrift",
+            "probability": 100
+        },
+        {
+            "content": "Bitte zu Hause üben (30 Min Nacharbeit)",
+            "probability": 100
+        },
+        {
+            "content": "Versucht, mit dem Quietschen des Schwammes Musik zu machen",
+            "probability": 100
+        },
+        {
+            "content": "In der Klausur XY supergenau und exakt nennen",
+            "probability": 100
+        },
+        {
+            "content": "Schreibt einen Stift leer",
+            "probability": 100
+        },
+        {
+            "content": "Mit x Übertreibung in 100 + x % in der Klausur",
+            "probability": 100
+        },
+        {
+            "content": "Redet über Aktuelles (Politik, Aktien, Eisbär ...)",
+            "probability": 100
+        },
+        {
+            "content": "Witz über KIT",
+            "probability": 100
+        },
+        {
+            "content": "Alles Tofu",
+            "probability": 100
+        },
+        {
+            "content": "Tafeläquivalente",
+            "probability": 100
+        },
+        {
+            "content": "Schreibt mit Rot",
+            "probability": 100
+        },
+        {
+            "content": "In die Evaluation schreiben ...",
+            "probability": 100
+        },
+        {
+            "content": "Steckt in ihrem Apfel",
+            "probability": 100
+        },
+        {
+            "content": "Spricht schlechtes Russisch",
+            "probability": 100
+        },
+        {
+            "content": "Könnte man so auch machen, ich mache es jetzt aber anders",
+            "probability": 100
+        },
+        {
+            "content": "Ändert den Tafelanschrieb, indem er irgendwo etwas einfügt",
+            "probability": 100
+        },
+        {
+            "content": "Lieblingskurs",
+            "probability": 100
+        },
+        {
+            "content": "Erklärt etwas mit Latein, Französisch etc.",
+            "probability": 100
+        },
+        {
+            "content": "Fragt Allgemeinwissen ab (Bücher, Musicals, Filme ...)",
+            "probability": 100
+        },
+        {
+            "content": "Alter Sack / einfacher Mensch",
+            "probability": 100
+        },
+        {
+            "content": "Erklärt etwas sehr Einfaches sehr lange",
+            "probability": 100
+        },
+        {
+            "content": "Persönliche Anekdote",
+            "probability": 100
+        }
+    ]
+}
