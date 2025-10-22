@@ -99,6 +99,31 @@
         {
             "content": "Persönliche Anekdote",
             "probability": 100
+        },
+        {
+            "content": "Meine Uhr ist kaputt...",
+            "probability": 100
+        },
+        {
+            "content": "Für die Asperger Autisten",
+            "probability": 100
+        },
+        {
+            "content": "Äpfel- oder Fensterrechner",
+            "probability": 100
+        },
+        {
+            "content": "Flüstert um etwas \"heimlich\" zu sagen",
+            "probability": 100
+        },
+        {
+            "content": "Nicht der Großmutter den Quarzschmuck stehlen",
+            "probability": 80
+        },
+        {
+            "content": "Stellt euch mich als eure Oma vor",
+            "probability": 80
         }
     ]
 }
+ 
